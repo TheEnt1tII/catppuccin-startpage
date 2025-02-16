@@ -4,12 +4,12 @@ const palette = mocha;
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "Leeuwarden",
     scale: "C",
   },
   clock: {
     format: "h:i p",
-    iconColor: palette.maroon,
+    iconColor: palette.green,
   },
   disabled: [],
   fastlink: "https://app.raindrop.io",
